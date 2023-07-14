@@ -1,0 +1,14 @@
+{
+    "name": "planradar-api",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^8.0.2"
+    }
+}
