@@ -24,9 +24,9 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to make sure that it works, you should see the message:
-
+```
 node-ex-api works :-)
-
+```
 ## Next steps
 
 Now you are ready to start the frontend application.
