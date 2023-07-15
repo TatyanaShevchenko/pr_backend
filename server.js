@@ -7,7 +7,7 @@ const itemsRouter = require("./routes/items");
 const app = express();
 
 app.use(express.json());
-app.use(cors({ origin: "http://localhost:8100" }));
+app.use(cors({ origin: "http://localhost:3006" }));
 app.use("/items", itemsRouter);
 
 // default URL to API
